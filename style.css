@@ -7,3 +7,9 @@ table,th,td,tr{
     background-color: aquamarine;
     border-color: palevioletred;
 }
+body{
+    background: url("background.jpg") no-repeat center top;
+}
+.biru{
+    color: blue;
+}

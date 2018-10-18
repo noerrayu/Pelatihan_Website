@@ -1,0 +1,19 @@
+.WarnaBiru {
+    color:blue;
+}
+.Tebal {
+    font-style: italic
+}
+body{
+    background-image: url("gambar.jpg") no-repeat left top fixed;
+}
+a:link{
+    color: green;
+    font-style: oblique;
+}
+a:visited{
+    color: blueviolet;
+}
+a:hover{
+    color:yellow;
+}
